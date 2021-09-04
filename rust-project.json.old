@@ -1,0 +1,14 @@
+{
+	"crates": [
+		{
+			"display_name": "rust_project_cargo_check_fail",
+			"root_module":"src/main.rs",
+			"edition": "2018",
+			"deps": [],
+			"is_workspace_member": true,
+			"cfg": [],
+			"env": {},
+			"is_proc_macro": false
+		}
+	]
+}
